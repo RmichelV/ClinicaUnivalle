@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #900C3F;
+}
+
+.fm .inptxt{
+    border: 2px solid rgb(176, 27, 107);
+    border-radius: 50px;
+    color: rgb(22, 22, 22);
+}
+
+.inpcal{
+    border: 2px solid rgb(176, 27, 107);
+    border-radius: 50px;
+}
+
+.inplst{
+    border: 2px solid rgb(176, 27, 107);
+    border-radius: 50px;
+}
+
+
+.fm {
+    background-color: rgba(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    width: 100%
+}
